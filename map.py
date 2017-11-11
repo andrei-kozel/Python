@@ -1,11 +1,11 @@
 dictionary = {
-    'name': "Bygaga",
+    'name': "Bygagsadsda",
     'age': 23,
     'location': "Minsk"
 }
 
 print(dictionary)
-
-dictionary['weight'] = 1
+sdfsdfsdeight'] = 1
 
 print(dictionary)
+ fsdfsd fsdfsd
