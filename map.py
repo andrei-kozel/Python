@@ -1,7 +1,7 @@
 
 
 dictionary = {
-    'name': "Rita",
+    'name': "Bygaga",
     'age': 23,
     'location': "Minsk"
 }
